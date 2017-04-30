@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CodeFoo2017</string>
+
+    <string name="content_authority" translatable="false">com.example.android.codefoo2017</string>
+
+    <string name="videos_title">Videos</string>
+
+    <string name="a11y_thumbnail">thumbnail</string>
+</resources>
